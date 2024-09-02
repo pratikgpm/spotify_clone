@@ -1,0 +1,12 @@
+Flash Screen
+
+
+Home -> Slider Page
+            User name initials
+            LogOut option
+
+      -> Bottom Navigation Bar
+           make it transparent
+
+      -> Song list
+            add artist templates
